@@ -2,4 +2,6 @@ Test 1 done
 
 sample file 1
 
+Resetting
 
+comparison change in 1
