@@ -5,3 +5,4 @@ sample file 1
 Resetting
 
 comparison change in 1
+stash, change in main
