@@ -5,4 +5,12 @@ sample file 1
 Resetting
 
 comparison change in 1
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 stash, change in main
+=======
+This is stash
+>>>>>>> Stashed changes
+=======
+This is stash
+>>>>>>> Stashed changes
